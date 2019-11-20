@@ -24,3 +24,5 @@ eficiente y confiable de archivos
   git config --global core.editor nano
   git config --list
   ```
+
+  esta linea fue creada en la rama master
