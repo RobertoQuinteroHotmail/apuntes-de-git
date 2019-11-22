@@ -1,14 +1,14 @@
-## Curso Git desde cero
+# Curso Git desde cero
 Sistema de control de versiones para el mantenimiento
 eficiente y confiable de archivos
 
-### Zonas de Git
+## Zonas de Git
 
 1.- Directorio de trabajo
 2.- Area de preparacion
 3.- Directorio Git
 
-### Flujo de trabajo básico
+## Flujo de trabajo básico
 
 1.- Modificas una serie de archivos en tu directorio de trabajo
 2.- Preparas los archivos, aadiendolos a tu area de preparación
@@ -16,7 +16,7 @@ eficiente y confiable de archivos
   el area de preparacion y almacena esa copia instanatanea de manera permanente
   en tu directrio de Git
 
-  ### Configurando Git por primera vez
+  ## Configurando Git por primera vez
 
   ```
   git config --global user.name "John Doe"
@@ -25,4 +25,6 @@ eficiente y confiable de archivos
   git config --list
   ```
 
-  esta linea fue creada en la rama master
+  ### Aportes desde otra cuenta
+
+  este texto fue aportado desde otra cuenta
